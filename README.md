@@ -1,6 +1,7 @@
 # PRISM - Predictive Risk Intelligence System for Medicine
 
 Unified refactored repository combining ML models, statistical analysis, and Flask API.
+Funded by the Italian National Recovery and Resilience Plan (NRRP), M4C2, European Union –NextGenerationEU, through the Research Program “National Centre for HPC, Big Data and Quantum Computing”, Project CN00000013, Spoke 6, CUP B83C22002940006 (Cascade Funding Spoke 6)
 
 ## Structure
 
