@@ -1,0 +1,27 @@
+# API Dependencies Only (minimal for production)
+# Install: pip install -r requirements-api.txt
+
+# Web Framework
+Flask==3.1.2
+Flask-Cors==6.0.1
+flasgger==0.9.7.1
+Werkzeug==3.1.3
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Data Handling
+pandas==2.2.3
+numpy==1.26.4
+
+# HTTP Requests
+requests==2.32.4
+
+# JWT verification
+python-jose[cryptography]==3.3.0
+
+# Charts
+matplotlib==3.10.1
+
+# Database
+# SQLite is built-in, no extra dependencies needed
